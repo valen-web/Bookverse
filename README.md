@@ -1,5 +1,4 @@
 # Bookverse
-repo2
 
 Code conduct:
 Nosotras nos regiremos por los siguientes principios en nuestras interacciones y contribuciones al proyecto: 
